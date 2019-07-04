@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<trees>
+
+
+    <species>
+        <name>Rowan</name>
+        <latinName>Sorbus aucuparia</latinName>
+        <height>15m</height>
+        <origin>China</origin>
+        <lore>Devil hanged mother from this tree.</lore>
+        <image>Images/rowan.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Rowan</url>
+    </species>
+
+
+    <species>
+        <name>Alder</name>
+        <latinName>Alnus glutinosa</latinName>
+        <height>30m</height>
+        <origin>Europe</origin>
+        <lore>Associated with hiding and secrecy.</lore>
+        <image>Images/alder.jpg</image>
+        <url>https://treesforlife.org.uk/forest/mythology-folklore/alder2/</url>
+
+    </species>
+
+    <species>
+        <name>Cypress</name>
+        <latinName>Cupressus macrocarpa</latinName>
+        <height>40m</height>
+        <origin>California</origin>
+        <lore>Mornful trees.</lore>
+        <image>Images/cypress.jpg</image>
+        <url>https://www.facebook.com/CSS1954/posts/folklore-friday-to-be-one-with-the-trees-is-to-know-life-within-your-own-spirit-/986092251432624/</url>
+
+    </species>
+
+    <species>
+        <name>Beech</name>
+        <latinName>Fagus sylvatica</latinName>
+        <height>30m</height>
+        <origin>Europe</origin>
+        <lore>Study and knowledge.</lore>
+        <image>Images/beech.jpg</image>
+        <url>https://www.fotawildlife.ie/animals-plants/view/beech</url>
+    </species>
+
+    <species>
+        <name>Silver Birch</name>
+        <latinName>Betula pendula</latinName>
+        <height>20m</height>
+        <origin>Europe</origin>
+        <lore>New beginnings, regeneration and hope.</lore>
+        <image>Images/silverBirch.jpg</image>
+        <url>https://www.ecoenchantments.co.uk/myogham_birchpage.html</url>
+    </species>
+
+        <species>
+        <name>Pine</name>
+        <latinName>Pinus Pinoideae</latinName>
+        <height>40m</height>
+        <origin>Northern Hemishpere</origin>
+        <lore>Wisdom and longevity.</lore>
+        <image>Images/pine.jpg</image>
+        <url>https://urnabios.com/pine-tree-symbolism-planting-instructions/</url>
+    </species>
+
+    <species>
+        <name>Acacia</name>
+        <latinName>Acacia penninervis</latinName>
+        <height>12m</height>
+        <origin>Australia</origin>
+        <lore>Tree of life.</lore>
+        <image>Images/acacia.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Tree_of_life</url>
+    </species>
+
+    <species>
+        <name>Willow</name>
+        <latinName>Salix alba L.</latinName>
+        <height>13m</height>
+        <origin>China</origin>
+        <lore>Buddhist attribute of compassion</lore>
+        <image>Images/willow.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Willow</url>
+    </species>
+
+    <species>
+        <name>Oak</name>
+        <latinName>Quercus</latinName>
+        <height>20m</height>
+        <origin>Northern Hemisphere</origin>
+        <lore>Thunder and lightning god.</lore>
+        <image>Images/oak.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Oak</url>
+    </species>
+
+    <species>
+        <name>Black locust</name>
+        <latinName>Robinia pseudoacacia</latinName>
+        <height>25m</height>
+        <origin>North America</origin>
+        <lore>Signals a time of potential</lore>
+        <image>Images/blackLocust.jpg</image>
+        <url>https://treespiritwisdom.com/tarot-and-the-tree-of-life/minor-arcana/hardwood-trees-swords/black-locust/</url>
+    </species>
+
+    <species>
+        <name>Hemlock</name>
+        <latinName>Conium maculatum</latinName>
+        <height>20m</height>
+        <origin>Europe and North Africa</origin>
+        <lore>Killed Socrates</lore>
+        <image>Images/hemlock.jpg</image>
+        <url>https://www.whitedragon.org.uk/articles/hemlock.htm</url>
+    </species>
+
+    <species>
+        <name>Sycamore</name>
+        <latinName>Acer pseudoplatanus</latinName>
+        <height></height>
+        <origin>Southern Europe</origin>
+        <lore>Connects the dead and the living.</lore>
+        <image>Images/sycamore.jpg</image>
+        <url>https://maeclair.net/2014/04/28/mythical-monday-folklore-of-the-sycamore-tree-by-mae-clair/</url>
+    </species>
+
+    <species>
+        <name>Fig</name>
+        <latinName>Ficus carica</latinName>
+        <height>6m</height>
+        <origin>Middle East</origin>
+        <lore>Under which Buddha achieved enlightenment</lore>
+        <image>Images/fig.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Ficus</url>
+    </species>
+
+    <species>
+        <name>Curry Tree</name>
+        <latinName>Murraya koenigii</latinName>
+        <height>4m</height>
+        <origin>India</origin>
+        <lore>Treats gall stones.</lore>
+        <image>Images/curry.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Curry_tree</url>
+    </species>
+
+    <species>
+        <name>Redwood</name>
+        <latinName>Sequoioideae</latinName>
+        <height>110m</height>
+        <origin>Images/california</origin>
+        <lore>Wellness, safety, longevity, wisdom, and communication.</lore>
+        <image>Images/redwood.jpg</image>
+        <url>https://en.wikipedia.org/wiki/Sequoioideae</url>
+    </species>
+
+    <species>
+        <name>Ash</name>
+        <latinName>Fraxinus</latinName>
+        <height>25m</height>
+        <origin>Europe, Asia and North America</origin>
+        <lore>Divination and knowledge.</lore>
+        <image>Images/ash.jpg</image>
+        <url>https://urnabios.com/redwood-symbolism-information-planting-instructions/</url>
+    </species>
+
+</trees>
+
+
+
+
